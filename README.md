@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/elissa-ntihinduka-282200271/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/iamalvin250">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://web.facebook.com/#">
