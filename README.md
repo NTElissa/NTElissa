@@ -22,7 +22,7 @@
   </div>
 <div class="text">
         <p>Hi, I'm Elissa NTIHINDUKA, a Full Stack Developer with a passion for creating beautiful and functional websites. I
-          specialize in HTML, CSS, JavaScript, React js, Node js and responsive design.</p>
+          specialize in HTML, CSS, JavaScript, React js, Node js ,graphQl and responsive design.</p>
         <p>I believe that good design is not just about aesthetics, but also about usability and accessibility. My goal
           is to create websites that are not only visually appealing, but also easy to use and accessible to everyone.
         </p>
