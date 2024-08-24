@@ -21,12 +21,12 @@
   <h1>Hi there 👋 </h1>
   </div>
 <div class="text">
-        <p>Hi, I'm Elissa NTIHINDUKA, a Full Stack Developer with a passion for creating beautiful and functional websites. I
-          specialize in HTML, CSS, JavaScript, React js, Node js ,GraphQL and responsive design.</p>
+        <p>Hi, I'm Elissa NTIHINDUKA, a Full Stack Developer passionate about creating beautiful and functional websites. I
+          specialize in HTML, CSS, JavaScript, React JS, Node js, GraphQL, and responsive design.</p>
         <p>I believe that good design is not just about aesthetics, but also about usability and accessibility. My goal
-          is to create websites that are not only visually appealing, but also easy to use and accessible to everyone.
+          is to create websites that are visually appealing, easy to use, and accessible to everyone.
         </p>
-        <p>When I'm not coding, you can find me in the game center or exploring new tech company in the city. I also
+        <p>When I'm not coding, you can find me in the game center or exploring new tech companies in the city. I also
           enjoy reading books and watching documentaries.</p>
       </div>
 
