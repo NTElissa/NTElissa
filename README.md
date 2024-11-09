@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
     <!-- Add more icons here -->
   </div>
 </div>
@@ -45,9 +46,14 @@
 <div id="github-stats" align="center" style="padding: 20px;">
   <h2>📊 GitHub Stats</h2>
   <div>
+    <!-- GitHub Stats with New Diagrams -->
     <img src="https://github-readme-stats.vercel.app/api?username=NTElissa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTElissa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTElissa&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats"/>
+
+    <!-- Additional GitHub Statistics Diagrams -->
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NTElissa&bg_color=000000&color=FFFFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NTElissa&theme=highcontrast" alt="Wakatime Activity"/>
   </div>
 </div>
 
