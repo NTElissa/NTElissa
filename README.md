@@ -51,9 +51,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTElissa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTElissa&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats"/>
 
-    <!-- Additional GitHub Statistics Diagrams -->
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NTElissa&bg_color=000000&color=FFFFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NTElissa&theme=highcontrast" alt="Wakatime Activity"/>
   </div>
 </div>
 
