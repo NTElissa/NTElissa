@@ -60,9 +60,9 @@
   <h2>🏆 Achievements</h2>
   <div>
     <ul style="list-style: none; padding: 0;">
-      <li>🎖️ Completed Hackathon 2023</li>
-      <li>🏅 Certified AWS Developer</li>
-      <li>🥇 Top Contributor in Open Source Project</li>
+      <Ul>🎖️ Completed Hackathon 2023</Ul>
+      <Ul>🏅 Certified AWS Developer</Ul>
+      <Ul>🥇 Top Contributor in Open Source Project</Ul>
     </ul>
   </div>
 </div>
