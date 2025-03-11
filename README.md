@@ -55,32 +55,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTElissa&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
   </div>
 </div>
-
-<!-- Projects Section -->
-<div id="projects" align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px; margin: 20px 0;">
-  <h2>💼 Projects</h2>
-  <div>
-    <p>Here are some of the projects I've worked on:</p>
-    <ul style="list-style: none; padding: 0;">
-      <li><a href="https://github.com/NTElissa/project1">Project 1</a> - A brief description of the project.</li>
-      <li><a href="https://github.com/NTElissa/project2">Project 2</a> - A brief description of the project.</li>
-      <li><a href="https://github.com/NTElissa/project3">Project 3</a> - A brief description of the project.</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Blog/Articles Section -->
-<div id="blog" align="center" style="padding: 20px; margin: 20px 0;">
-  <h2>📝 Blog/Articles</h2>
-  <div>
-    <p>I occasionally write about tech and development. Check out my latest articles:</p>
-    <ul style="list-style: none; padding: 0;">
-      <li><a href="https://medium.com/@elissa">Article 1</a> - A brief description of the article.</li>
-      <li><a href="https://medium.com/@elissa">Article 2</a> - A brief description of the article.</li>
-    </ul>
-  </div>
-</div>
-
 <!-- Achievements Section -->
 <div id="achievements" align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px; margin: 20px 0;">
   <h2>🏆 Achievements</h2>
@@ -93,21 +67,11 @@
   </div>
 </div>
 
-<!-- Fun Facts Section -->
-<div id="fun-facts" align="center" style="padding: 20px; margin: 20px 0;">
-  <h2>🌟 Fun Facts</h2>
-  <div>
-    <ul style="list-style: none; padding: 0;">
-      <li>⚡ I can solve a Rubik's Cube in under 2 minutes.</li>
-      <li>🎮 I love playing strategy games like Chess and Age of Empires.</li>
-      <li>📚 I read at least one book every month.</li>
-    </ul>
-  </div>
-</div>
+
 
 <!-- Call to Action Section -->
 <div id="cta" align="center" style="padding: 20px; background-color: #0073b1; border-radius: 10px;">
   <h3 style="color: white;">Let's Collaborate! 🚀</h3>
-  <p style="color: white;">If you're interested in working together or just want to chat about tech, feel free to reach out!</p>
+  <p style="color: white;">If you're interested in working together or want to chat about tech, feel free to reach out!</p>
   <a href="https://www.linkedin.com/in/elissa-ntihinduka-282200271/" style="padding: 10px 20px; background-color: white; color: #0073b1; text-decoration: none; border-radius: 5px;">Contact Me on LinkedIn</a>
 </div>
