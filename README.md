@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/elissa-ntihinduka-282200271/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,9 @@
     <a href="https://twitter.com/elissantihindu1">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <!-- Add more badges here -->
+    <a href="https://github.com/NTElissa">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
   </div>
 </div>
 
@@ -28,7 +30,7 @@
 </div>
 
 <!-- Tech Stack Section -->
-<div id="tech-stack" align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
+<div id="tech-stack" align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px; margin: 20px 0;">
   <h2>🚀 Tech Stack</h2>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -39,17 +41,67 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <!-- Add more icons here -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </div>
 </div>
 
 <!-- GitHub Stats Section -->
-<div id="github-stats" align="center" style="padding: 20px;">
+<div id="github-stats" align="center" style="padding: 20px; margin: 20px 0;">
   <h2>📈 GitHub Stats</h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=NTElissa&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTElissa&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NTElissa&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  </div>
+</div>
+
+<!-- Projects Section -->
+<div id="projects" align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px; margin: 20px 0;">
+  <h2>💼 Projects</h2>
+  <div>
+    <p>Here are some of the projects I've worked on:</p>
+    <ul style="list-style: none; padding: 0;">
+      <li><a href="https://github.com/NTElissa/project1">Project 1</a> - A brief description of the project.</li>
+      <li><a href="https://github.com/NTElissa/project2">Project 2</a> - A brief description of the project.</li>
+      <li><a href="https://github.com/NTElissa/project3">Project 3</a> - A brief description of the project.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Blog/Articles Section -->
+<div id="blog" align="center" style="padding: 20px; margin: 20px 0;">
+  <h2>📝 Blog/Articles</h2>
+  <div>
+    <p>I occasionally write about tech and development. Check out my latest articles:</p>
+    <ul style="list-style: none; padding: 0;">
+      <li><a href="https://medium.com/@elissa">Article 1</a> - A brief description of the article.</li>
+      <li><a href="https://medium.com/@elissa">Article 2</a> - A brief description of the article.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Achievements Section -->
+<div id="achievements" align="center" style="padding: 20px; background-color: #f4f4f4; border-radius: 10px; margin: 20px 0;">
+  <h2>🏆 Achievements</h2>
+  <div>
+    <ul style="list-style: none; padding: 0;">
+      <li>🎖️ Completed Hackathon 2023</li>
+      <li>🏅 Certified AWS Developer</li>
+      <li>🥇 Top Contributor in Open Source Project</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Fun Facts Section -->
+<div id="fun-facts" align="center" style="padding: 20px; margin: 20px 0;">
+  <h2>🌟 Fun Facts</h2>
+  <div>
+    <ul style="list-style: none; padding: 0;">
+      <li>⚡ I can solve a Rubik's Cube in under 2 minutes.</li>
+      <li>🎮 I love playing strategy games like Chess and Age of Empires.</li>
+      <li>📚 I read at least one book every month.</li>
+    </ul>
   </div>
 </div>
 
